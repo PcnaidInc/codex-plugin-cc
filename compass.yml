@@ -1,0 +1,16 @@
+name: codex-plugin-cc
+id: ari:cloud:compass:6a5035f9-5067-4fc8-a1cd-e132f8157385:component/e12b574d-411d-46d7-86a9-791861f57737/ceaaa4b1-2862-41b6-bfe2-dc88c7c34495
+description: Use Codex from Claude Code to review code or delegate tasks.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/PcnaidInc/codex-plugin-cc
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
